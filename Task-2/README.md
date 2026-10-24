@@ -1,4 +1,3 @@
-::: {align="center"}
 # ApexPlanet Cybersecurity Internship --- Task 2
 
 ## Network Security & Scanning
@@ -134,17 +133,17 @@ Before running tools, fill in this block in my lab log:
   -----------------------------------------------------------------------
   Item                                My value
   ----------------------------------- -----------------------------------
-  Date / time                         `YYYY-MM-DD HH:MM (local time)`
+  Date / time                         ``
 
   Scanner VM                          Kali Linux
 
   Target VM                           Metasploitable 2 / DVWA
 
-  Scanner interface                   `<interface>`
+  Scanner interface                   ``
 
-  Scanner IP                          `<SCANNER_IP>`
+  Scanner IP                          `192.168.56.4`
 
-  Target IP                           `<TARGET_IP>`
+  Target IP                           `192.168.56.3`
 
   VirtualBox network mode             Host-only / isolated lab
 
@@ -159,7 +158,7 @@ Before running tools, fill in this block in my lab log:
 
 ### Safe operating rules
 
--   Use a single target IP (`<TARGET_IP>`) when learning; widen the
+-   Use a single target IP (`192.168.56.3`) when learning; widen the
     range only when I know it is my isolated subnet.
 -   Do not scan public IPs, campus networks, hostel networks or other
     people's devices without explicit authorization.
@@ -1279,9 +1278,8 @@ local versions may differ.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **RootVector · Learn the evidence, not just the command.**
 
 *These notes are a working lab notebook. I will add my own timestamps,
 actual outputs, screenshots and conclusions after running each test.*
-:::
+
