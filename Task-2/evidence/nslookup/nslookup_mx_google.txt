@@ -1,0 +1,14 @@
+;; communications error to 142.250.146.138#53: timed out
+;; communications error to 142.250.146.138#53: timed out
+;; communications error to 142.250.146.138#53: timed out
+;; communications error to 142.250.146.113#53: timed out
+;; communications error to 142.250.146.101#53: timed out
+;; communications error to 142.250.146.139#53: timed out
+;; communications error to 142.250.146.102#53: timed out
+;; communications error to 142.250.146.100#53: timed out
+;; communications error to 2404:6800:4000:1025::64#53: timed out
+;; communications error to 2404:6800:4000:1025::65#53: timed out
+;; communications error to 2404:6800:4000:1025::71#53: timed out
+;; communications error to 2404:6800:4000:1025::8b#53: timed out
+;; no servers could be reached
+

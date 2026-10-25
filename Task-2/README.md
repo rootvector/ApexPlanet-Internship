@@ -133,13 +133,13 @@ Before running tools, fill in this block in my lab log:
   -----------------------------------------------------------------------
   Item                                My value
   ----------------------------------- -----------------------------------
-  Date / time                         ``
+  Date / time                         `Sun Oct 25 12:44:50 AM EDT 2026`
 
   Scanner VM                          Kali Linux
 
   Target VM                           Metasploitable 2 / DVWA
 
-  Scanner interface                   ``
+  Scanner interface                   `eth0`
 
   Scanner IP                          `192.168.56.4`
 
@@ -153,7 +153,7 @@ Before running tools, fill in this block in my lab log:
   Test purpose                        Inventory, exposure review, packet
                                       analysis
 
-  Evidence folder                     `evidence/task-2/`
+  Evidence folder                     `evidence/`
   -----------------------------------------------------------------------
 
 ### Safe operating rules
@@ -502,7 +502,7 @@ time---not a permanent property of the host.
 ``` bash
 mkdir -p evidence/task-2/nmap
 sudo nmap -sS -sV -O <TARGET_IP> \
-  -oA evidence/task-2/nmap/target-initial
+  -oA evidence/nmap/target-initial
 ```
 
 If I want a separate UDP result:
