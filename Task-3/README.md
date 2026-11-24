@@ -7,7 +7,6 @@
 **Prepared by:** RootVector  
 **Brand:** rootvector.sec  
 **Testing Environment:** Controlled Lab Environment  
-**Report Date:** [DD/MM/YYYY]
 
 ---
 
@@ -226,22 +225,7 @@ HTTP security headers provide browser-level security controls that help reduce c
 - Referrer-Policy
 
 
-
-# 7. Summary of Testing Activities
-
-| Vulnerability / Activity | Status |
-|---|---|
-| SQL Injection | [Completed / Pending] |
-| Stored XSS | [Completed / Pending] |
-| Reflected XSS | [Completed / Pending] |
-| CSRF | [Completed / Pending] |
-| LFI | [Completed / Pending] |
-| RFI | [Completed / Studied / Pending] |
-| Burp Suite Proxy | [Completed / Pending] |
-| Intruder Fuzzing | [Completed / Pending] |
-| Security Headers | [Completed / Pending] |
-
-# 8. Security Findings and Recommendations
+# 7. Security Findings and Recommendations
 
 The practical exercises demonstrated how insufficient input validation, insecure request handling, and improper web server configuration can introduce security weaknesses.
 
@@ -258,7 +242,7 @@ The following general recommendations were identified:
 
 **Important:** The recommendations above describe general security controls. Specific findings should be added only after testing and evidence collection.
 
-# 9. Learning Outcomes
+# 8. Learning Outcomes
 
 Through this task, I developed practical understanding of:
 
@@ -272,7 +256,7 @@ Through this task, I developed practical understanding of:
 - HTTP security headers and browser protections.
 - Vulnerability mitigation and secure application development.
 
-# 10. Conclusion
+# 9. Conclusion
 
 Task 3 provided practical exposure to web application security testing and common vulnerabilities.
 
@@ -282,7 +266,7 @@ The task also provided experience with tools such as DVWA, Burp Suite, and Secur
 
 Understanding both vulnerability behavior and mitigation techniques is an important part of developing responsible penetration-testing skills.
 
-# 11. References
+# 10. References
 
 1. OWASP Foundation – https://owasp.org/
 2. OWASP Top 10 – https://owasp.org/www-project-top-ten/
@@ -293,7 +277,7 @@ Understanding both vulnerability behavior and mitigation techniques is an import
 
 ---
 
-**Prepared by:** RootVector  
+**Prepared by:** RootVector (Rohan Kakde) 
 **Cybersecurity Identity:** rootvector.sec  
 **Internship:** ApexPlanet Cybersecurity & Ethical Hacking Internship  
 **Task:** Task 3 – Web Application Security
